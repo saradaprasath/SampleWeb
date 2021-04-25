@@ -12,6 +12,7 @@ namespace WebApplication1
 {
     public class Startup
     {
+        //chck
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
